@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## Test my first project README edit
+Test my first project README edit
 
 You can use the [editor on GitHub](https://github.com/Sh0gunR/Sh0guntestproject.gethub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
